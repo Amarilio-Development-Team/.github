@@ -2,4 +2,4 @@
 
 # Amarilio Development Team
 
-Somos el equipo de Desarrollo de Amarilio, enfocados en construir soluciones digitales eficientes.
+Organización del equipo de Desarrollo de Amarilio.
